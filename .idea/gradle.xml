@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../학교 수업/모바일 프로그래밍/MyLecD" />
+            <option value="$PROJECT_DIR$/../../../학교 수업/모바일 프로그래밍/MyLecD/app" />
+            <option value="$PROJECT_DIR$/../../../학교 수업/모바일 프로그래밍/MyLecD/dweek04a" />
+            <option value="$PROJECT_DIR$/../../../학교 수업/모바일 프로그래밍/MyLecD/dweek05a" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../학교 수업/모바일 프로그래밍/MyLecD" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../학교 수업/모바일 프로그래밍/MyLecD" />
+            <option value="$PROJECT_DIR$/../../../학교 수업/모바일 프로그래밍/MyLecD/app" />
+            <option value="$PROJECT_DIR$/../../../학교 수업/모바일 프로그래밍/MyLecD/dweek04a" />
+            <option value="$PROJECT_DIR$/../../../학교 수업/모바일 프로그래밍/MyLecD/dweek05a" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
