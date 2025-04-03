@@ -20,7 +20,7 @@ fun TodoSwitch(
     onCheckedChange: (Boolean) -> Unit
 ) {
     Row(modifier = modifier, verticalAlignment = Alignment.CenterVertically) {
-        Text("미완료 항목만 보기", fontSize = 16.sp)
+        Text("미완료 항목만 보기", fontSize = 18.sp)
         Spacer(modifier = Modifier.width(8.dp))
         Switch(
             checked = checked,
