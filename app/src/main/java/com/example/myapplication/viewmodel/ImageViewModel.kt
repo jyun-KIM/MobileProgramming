@@ -8,7 +8,6 @@ import com.example.myapplication.model.ImageListFactory
 class ImageViewModel : ViewModel() {
     private val _imageList = ImageListFactory.makeImageList()
 
-    // Compose가 추적 가능한 상태로 노출
     val imageList = _imageList
 
     fun toggleDress(index: Int, checked: Boolean) {
